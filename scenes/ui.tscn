@@ -1,9 +1,9 @@
 [gd_scene load_steps=6 format=3 uid="uid://djola15i6rkpm"]
 
-[ext_resource type="Script" path="res://ui.gd" id="1_6fxej"]
+[ext_resource type="Script" path="res://scripts/ui.gd" id="1_6fxej"]
 [ext_resource type="LabelSettings" uid="uid://6als3mt3a4le" path="res://label_setting.tres" id="1_ilyco"]
 [ext_resource type="FontFile" uid="uid://by32aayt15n0k" path="res://fonts/Xolonium-Regular.ttf" id="2_guc8p"]
-[ext_resource type="PackedScene" uid="uid://c34olt6qn5xfs" path="res://pause.tscn" id="4_k255n"]
+[ext_resource type="PackedScene" uid="uid://c34olt6qn5xfs" path="res://scenes/pause.tscn" id="4_k255n"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_6fp2g"]
 font_size = 64

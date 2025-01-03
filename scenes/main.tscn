@@ -1,10 +1,10 @@
 [gd_scene load_steps=10 format=4 uid="uid://clbqinjj8lgix"]
 
-[ext_resource type="PackedScene" uid="uid://c6cospgg4crr" path="res://player.tscn" id="1_jd8ct"]
-[ext_resource type="Script" path="res://main.gd" id="1_mnods"]
-[ext_resource type="PackedScene" uid="uid://cwcfnlvomuf8e" path="res://mob.tscn" id="2_kfpla"]
-[ext_resource type="PackedScene" uid="uid://djola15i6rkpm" path="res://ui.tscn" id="4_xqyrs"]
-[ext_resource type="Script" path="res://start_button.gd" id="5_boree"]
+[ext_resource type="PackedScene" uid="uid://c6cospgg4crr" path="res://scenes/player.tscn" id="1_jd8ct"]
+[ext_resource type="Script" path="res://scripts/main.gd" id="1_mnods"]
+[ext_resource type="PackedScene" uid="uid://cwcfnlvomuf8e" path="res://scenes/mob.tscn" id="2_kfpla"]
+[ext_resource type="PackedScene" uid="uid://djola15i6rkpm" path="res://scenes/ui.tscn" id="4_xqyrs"]
+[ext_resource type="Script" path="res://scripts/start_button.gd" id="5_boree"]
 [ext_resource type="AudioStream" uid="uid://d1ihkux80vhsy" path="res://art/gameover.wav" id="7_ikrnv"]
 
 [sub_resource type="Curve2D" id="Curve2D_tahe6"]
